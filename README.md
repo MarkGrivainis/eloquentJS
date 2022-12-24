@@ -1,3 +1,3 @@
 # eloquentJS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-zqwc4m)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/MarkGrivainis/eloquentJS)
